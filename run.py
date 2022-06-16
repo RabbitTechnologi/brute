@@ -1,0 +1,2 @@
+import brute
+brute.login()
